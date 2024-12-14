@@ -90,6 +90,7 @@ The Mamba model introduces a novel approach to sequence modeling by:
 1. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 2. [The Annotated S4](https://srush.github.io/annotated-s4)
 3. [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html)
+4. [Visual Guide to Mamba]https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state
 
 ## Contributing
 
